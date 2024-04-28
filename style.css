@@ -1,0 +1,16 @@
+.main {
+  margin: 25px auto 25px auto !important;
+}
+
+.main h2 {
+  text-align: center !important;
+}
+
+.head-container {
+  margin-top: 30px !important;
+  padding: 30px !important;
+}
+
+table {
+  border: 2px solid;
+}
