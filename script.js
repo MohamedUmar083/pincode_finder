@@ -48,6 +48,6 @@ button.addEventListener("click", () => {
           alert("Check Area Name or District");
         }
       })
-      .catch((error) => console.log(error));
+      .catch((error) => alert("Area Name Not Found", error));
   }
 });
